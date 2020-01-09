@@ -6,5 +6,7 @@ public class Hello {
         int num = 1/1;
         int a = num+10;
     }
-    public void feature(){}
+    public void feature(){
+        System.out.println("hello!");
+    }
 }
